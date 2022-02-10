@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
-<h3 align="center">Independent research, learning, thinking</h3>
+<h3 align="center">Independent learning, research, thinking</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonymarin0&label=Profile%20views&color=0e75b6&style=flat" alt="tonymarin0" /> </p>
 

@@ -1,4 +1,4 @@
-<!DOCTYPE html> <html> <head> <title>HTML Backgorund Color</title> </head> <body style="background-color:grey;"> <h1>Products</h1> <p>We have developed more than 10 products till now.</p> </body> 
+<!DOCTYPE html> <html> <head> <title>HTML Backgorund Color</title> </head> <body style="background-color:blue;"> <h1>Products</h1> <p>We have developed more than 10 products till now.</p> </body> 
 <h1 align="center">Hi 👋, I'm Tony</h1>
 <h3 align="center">Independent learning, research, thinking</h3>
 

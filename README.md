@@ -21,7 +21,7 @@
 </p>
 
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-<img src="https://github.com/tonymarin0/tonymarin0/blob/master/github_logos2.png" alt="ok"> </a> </p>
+<img src="https://github.com/tonymarin0/tonymarin0/blob/master/github_logos.png" alt="ok"> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonymarin0&show_icons=true&locale=en&layout=compact" alt="tonymarin0" /></p>
 

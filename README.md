@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
 <h3 align="center">An independent learner</h3> 
 
-<h3 align="left">Welcome to my challenge project</h3><br>
+<h3 align="left">Welcome to my technical challenge</h3><br>
 <img src="https://github.com/tonymarin0/tonymarin0/blob/master/Calendar_when.png" alt="ok">
 <p>
 I will send a message from one computer to another using only light and color.

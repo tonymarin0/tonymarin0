@@ -3,20 +3,22 @@
 <h3 align="center">An independent learner</h3> 
 
 <h3 align="center">Welcome to my technical challenge</h3><br>
-<img src="https://github.com/tonymarin0/tonymarin0/blob/master/challenge_img.png" alt="ok">
+<img src="https://github.com/tonymarin0/tonymarin0/blob/master/challenge_img.png" alt="challenge_img">
 <p>
+<strong>START DATE:</strong> Not yet<br>
+<strong>END DATE:</strong> March 15th, 2022<br><br>
+
 I will send a message from one computer to another using only light and color.
     
 No Internet<br>
-No WiFi<br>
-No Bluetooth<br>
-No Cables or wires<br>
+No network, WiFi or Bluetooth<br>
 No Radio signal<br>
+No Cables or wires<br>
 No Data/information infrastructure<br>
 </p>
 <h1 align="center"></h1>
     
-<h3>WHAT'S HAPPENING TODAY</h3>
+<h3>TODAY</h3>
 
 Friday, February 11th, 2022
     

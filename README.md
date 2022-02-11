@@ -13,7 +13,6 @@ No Bluetooth<br>
 No Cables or wires<br>
 No Radio signal<br>
 No Data/information infrastructure<br>
-100% Off grid
 </p>
 <h1 align="center"></h1>
     

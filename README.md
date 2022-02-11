@@ -12,6 +12,9 @@ I will send a message from one computer to another using only light and color.
     No Bluetooth
     No Cables or wires
     No Radio signal
+    No Data/information infrastructure
+    100% Off grid
+    
     
 </p><br>
 <h3 align="left">TO-DO</h3>

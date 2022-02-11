@@ -9,6 +9,15 @@ I will send a message from one computer to another using only light and color.
 <h3 align="left">TO-DO</h3>
 <img src="https://github.com/tonymarin0/tonymarin0/blob/master/to-do.png" alt="ok">
 <p>
+ok
+<div style="display:inline-block;vertical-align:top;">
+<img src="https://loremflickr.com/320/240" alt="img"/>
+</div>
+<div style="display:inline-block;">
+<p>
+Here goes the text content.
+</p>
+</div>
 
 
 <p align="left">Tony's tools</p>

@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonymarin0&label=Profile%20views&color=0e75b6&style=flat" alt="tonymarin0" /> </p>
 
 <h3 align="left">Project</h3>
+<img src="https://github.com/tonymarin0/tonymarin0/blob/master/Calendar_When.png" alt="ok">
 <p>
-<img src="https://github.com/tonymarin0/tonymarin0/blob/master/calendar_when.png" alt="ok"> </a> </p>
 CHALLENGE: I will send a message from one computer to another using only light and color.
 </p><br>
 

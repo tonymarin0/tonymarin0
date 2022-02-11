@@ -16,7 +16,7 @@ No Data/information infrastructure<br>
 </p>
 <h1 align="center"></h1>
     
-<h3>WHAT'S HAPPENING TODAY</h3>
+<h3>TODAY</h3>
 
 Friday, February 11th, 2022
     

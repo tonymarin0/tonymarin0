@@ -2,15 +2,6 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
 <p align="center">Programmer analyst, independent learner and thinker</p><br>
 <h3 align="left">Welcome to my challenge project</h3><br>
-<p>LATEST UPDATE<br>
-    Friday, February 11th, 2022
-    
-    test 123
-    test 123
-    test123
-</p>
-    
-
 <img src="https://github.com/tonymarin0/tonymarin0/blob/master/Calendar_when.png" alt="ok">
 <p>
 I will send a message from one computer to another using only light and color.
@@ -25,6 +16,16 @@ I will send a message from one computer to another using only light and color.
     
     
 </p><br>
+<p>LATEST UPDATE<br>
+    Friday, February 11th, 2022
+    
+    test 123
+    test 123
+    test123
+</p>
+    
+
+
 <h3 align="left">TO-DO</h3>
 <img src="https://github.com/tonymarin0/tonymarin0/blob/master/to-do.png" alt="ok">
 <p>

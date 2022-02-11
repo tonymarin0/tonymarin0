@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonymarin0&label=Profile%20views&color=0e75b6&style=flat" alt="tonymarin0" /> </p>
 
-<h3 align="left">About</h3>
+<h3 align="left">About Tony</h3>
 
-<p align="left">My tools</p>
+<p align="left">Tony's tools</p>
 
 <img src="https://github.com/tonymarin0/tonymarin0/blob/master/new_logos28.png" alt="ok"> </a> </p>
 

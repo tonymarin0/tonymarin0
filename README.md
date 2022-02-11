@@ -5,8 +5,8 @@
 <h3 align="center">Welcome to my technical challenge</h3><br>
 <img src="https://github.com/tonymarin0/tonymarin0/blob/master/challenge_img.png" alt="challenge_img">
 <p>
-<strong>START DATE:</strong> Not yet 
-<strong>END DATE:</strong> March 15th, 2022
+<strong>START DATE:</strong> Not yet<br>
+<strong>END DATE:</strong> March 15th, 2022<br>
 
 I will send a message from one computer to another using only light and color.
     

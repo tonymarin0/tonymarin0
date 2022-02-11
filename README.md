@@ -9,10 +9,10 @@ I will send a message from one computer to another using only light and color.
     
 No Internet<br>
 No WiFi<br>
-No Bluetooth
-No Cables or wires
-No Radio signal
-No Data/information infrastructure
+No Bluetooth<br>
+No Cables or wires<br>
+No Radio signal<br>
+No Data/information infrastructure<br>
 100% Off grid
 </p>
 <h1 align="center"></h1>

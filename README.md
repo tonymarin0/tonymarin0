@@ -8,17 +8,14 @@
 <strong>START DATE:</strong> Not yet<br>
 <strong>END DATE:</strong> March 15th, 2022<br><br>
 
-<h3>Join me on this epic hack challenge as we discuss physics, technology and the power of light to help us commuicate a message
+<p>Join me on this epic hack challenge as we discuss physics, technology and the power of light to help us commuicate a message
 information transmission.
-    
-    
-    
-    diferereadily available household items to build and 
+diferereadily available household items to build and 
 
-</h3>
+</p>
 
-    
-"I will send a message from one computer to another using only light and color."    
+I will send a message from one computer to another using only light and color.
+
 No Internet<br>
 No network, WiFi or Bluetooth<br>
 No Radio signal<br>

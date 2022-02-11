@@ -16,9 +16,10 @@ I will send a message from one computer to another using only light and color.
     100% Off grid
     
     
-</p><br>
-<p>WHAT'S HAPPENING TODAY<br>
-    Friday, February 11th, 2022
+<br>
+<h3>WHAT'S HAPPENING TODAY</h3><br>
+</p>
+Friday, February 11th, 2022
     
     test 123
     test 123

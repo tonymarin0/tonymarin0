@@ -14,6 +14,7 @@ I will send a message from one computer to another using only light and color.
     No Radio signal
     No Data/information infrastructure
     100% Off grid
+    </p>
 <h1 align="center"></h1>
     
 <h3>WHAT'S HAPPENING TODAY</h3>

@@ -1,6 +1,8 @@
     
-<h1 align="center">Hi 👋, I'm Tony</h1>
-<p align="center">Programmer analyst, independent learner and thinker</p><br>
+<h1 align="center">Hi 👋, I'm Tony
+<p align="center">Programmer analyst, independent learner and thinker</p>
+</h1>
+
 <h3 align="left">Welcome to my challenge project</h3><br>
 <img src="https://github.com/tonymarin0/tonymarin0/blob/master/Calendar_when.png" alt="ok">
 <p>

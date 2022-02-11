@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
-<p align="center">Independent learning, research and thinking</p>
+<p align="center">Independent learner and thinker</p>
 
 <h3 align="left">Project</h3>
 <img src="https://github.com/tonymarin0/tonymarin0/blob/master/Calendar_when.png" alt="ok">
 <p>
-CHALLENGE: I will send a message from one computer to another using only light and color.
+I will send a message from one computer to another using only light and color.
 </p><br>
 
 

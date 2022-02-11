@@ -5,6 +5,8 @@
 <h3 align="center">Welcome to my technical challenge</h3><br>
 <img src="https://github.com/tonymarin0/tonymarin0/blob/master/challenge_img.png" alt="ok">
 <p>
+Austin, Texas
+February 11th, 2022
 I will send a message from one computer to another using only light and color.
     
 No Internet<br>

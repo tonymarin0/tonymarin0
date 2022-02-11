@@ -3,8 +3,11 @@
 <h3 align="center">An independent learner</h3> 
 
 <h3 align="center">Welcome to my technical challenge</h3><br>
-<img src="https://github.com/tonymarin0/tonymarin0/blob/master/challenge_img.png" alt="ok">
+<img src="https://github.com/tonymarin0/tonymarin0/blob/master/challenge_img.png" alt="challenge_img">
 <p>
+<strong>START DATE:</strong> Not yet 
+<strong>END DATE:</strong> March 15th, 2022
+
 I will send a message from one computer to another using only light and color.
     
 No Internet<br>

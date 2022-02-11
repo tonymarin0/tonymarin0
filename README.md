@@ -35,8 +35,11 @@ Friday, February 11th, 2022
 <h3 align="left">TO-DO</h3>
 <img src="https://github.com/tonymarin0/tonymarin0/blob/master/to-do.png" alt="stand-up">
     
-    ▄▀ 9:00AM Update/day gameplan
-    ▄▀ Daily check-ins
+    ▄█ 9:00AM Update/day gameplan
+
+    ▄█ Daily check-ins
+    
+    ▄█ 
 <p>
 
 <p align="left">...

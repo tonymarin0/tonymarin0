@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonymarin0&label=Profile%20views&color=0e75b6&style=flat" alt="tonymarin0" /> </p>
 
-<h3 align="left">Tony's projects</h3>
+<h3 align="left">Project</h3>
 <p>
-OpticEvent
+CHALLENGE: To send a message from one computer to another using only light and colors.
 </p><br>
 
 

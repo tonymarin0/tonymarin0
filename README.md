@@ -40,5 +40,10 @@ I will send a message from one computer to another using only light and color.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonymarin0&show_icons=true&locale=en" alt="tonymarin0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonymarin0&" alt="tonymarin0" /></p>
-<p>okokok</p>
+<h3 align="left">ARCHIVED UPDATES</h3><br>
+<p>LATEST UPDATE<br>
+Friday, February 11th, 2022
 
+    Update 1
+    starting...
+</p>

@@ -8,8 +8,10 @@
 <strong>START DATE:</strong> Not yet<br>
 <strong>END DATE:</strong> March 15th, 2022<br><br>
 
-I will send a message from one computer to another using only light and color.
+<h2>Follow along with Tony as he takes you into the journey of a programmer's epic technical challenge.</h2>
+
     
+"I will send a message from one computer to another using only light and color."    
 No Internet<br>
 No network, WiFi or Bluetooth<br>
 No Radio signal<br>

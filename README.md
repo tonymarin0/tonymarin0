@@ -1,3 +1,19 @@
+<header>
+<style>
+    <style>
+        .aligned {
+            display: flex;
+            align-items: center;
+        }
+          
+        span {
+            padding: 10px;
+        }
+    </style>
+    
+    </style>
+    </header>
+    
 <h1 align="center">Hi 👋, I'm Tony</h1>
 <p align="center">Independent learner and thinker</p>
 
@@ -15,19 +31,10 @@ ok
     <p style="float: left;"><img src="http://placekitten.com/g/200/200" height="200px" width="200px" border="1px"></p>
     <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
 
- <style>
-        .aligned {
-            display: flex;
-            align-items: center;
-        }
-          
-        span {
-            padding: 10px;
-        }
-    </style>
-</head>
+ 
+
   
-<body>
+
     <div class="aligned">
         <img src=
 "https://media.geeksforgeeks.org/wp-content/uploads/20200327230544/g4gicon.png"

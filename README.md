@@ -15,10 +15,26 @@ ok
     <p style="float: left;"><img src="http://placekitten.com/g/200/200" height="200px" width="200px" border="1px"></p>
     <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
 
-<div style="clear: left;">
-    <p style="float: left;"><img src="http://placekitten.com/g/200/200" height="200" width="200" border="1px"></p>
-    <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
-</div>
+ <style>
+        .aligned {
+            display: flex;
+            align-items: center;
+        }
+          
+        span {
+            padding: 10px;
+        }
+    </style>
+</head>
+  
+<body>
+    <div class="aligned">
+        <img src=
+"https://media.geeksforgeeks.org/wp-content/uploads/20200327230544/g4gicon.png"
+            width="50" alt="">
+             
+        <span>GeeksforGeeks</span>
+    </div>
 
 
 

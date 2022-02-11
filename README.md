@@ -17,12 +17,15 @@ I will send a message from one computer to another using only light and color.
     
     
 </p><br>
-<p>LATEST UPDATE<br>
+<p>WHAT'S HAPPENING TODAY<br>
     Friday, February 11th, 2022
     
     test 123
     test 123
     test123
+    AM standup update
+    link canvan
+    
 </p>
     
 

@@ -10,14 +10,16 @@ I will send a message from one computer to another using only light and color.
 <img src="https://github.com/tonymarin0/tonymarin0/blob/master/to-do.png" alt="ok">
 <p>
 ok
-<div style="display:inline-block;vertical-align:top;">
-<img src="https://loremflickr.com/320/240" alt="img"/>
+
+  <div>
+    <p style="float: left;"><img src="http://placekitten.com/g/200/200" height="200px" width="200px" border="1px"></p>
+    <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
 </div>
-<div style="display:inline-block;">
-<p>
-Here goes the text content.
-</p>
+<div style="clear: left;">
+    <p style="float: left;"><img src="http://placekitten.com/g/200/200" height="200" width="200" border="1px"></p>
+    <p>Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text</p>
 </div>
+
 
 
 <p align="left">Tony's tools</p>

@@ -15,6 +15,9 @@ I will send a message from one computer to another using only light and color.
     No Data/information infrastructure
     100% Off grid
     
+   <h3>
+       </h3>
+    
 <h3>WHAT'S HAPPENING TODAY</h3>
 </p>
 Friday, February 11th, 2022

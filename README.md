@@ -3,14 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonymarin0&label=Profile%20views&color=0e75b6&style=flat" alt="tonymarin0" /> </p>
 
-<h3 align="left">My tools</h3>
+<h3 align="left">Project</h3>
+<p>
+CHALLENGE: To send a message from one computer to another using only light and colors.
+</p><br>
+
+
+
+<p align="left">Tony's tools</p>
+
+<img src="https://github.com/tonymarin0/tonymarin0/blob/master/new_logos28.png" alt="ok"> </a> </p>
+
 <p align="left">
 </p>
 
-<img src="https://github.com/tonymarin0/tonymarin0/blob/master/new_logos27.png" alt="ok"> </a> </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonymarin0&show_icons=true&locale=en&layout=compact" alt="tonymarin0" /></p>
-!-->
 
 <p align="left">...
 </p>

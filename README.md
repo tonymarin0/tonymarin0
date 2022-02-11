@@ -1,6 +1,6 @@
     
 <h1 align="center">Hi 👋, I'm Tony</h1>
-<p align="center">Independent learner and thinker</p><br>
+<p align="center">Programmer Analys, independent learner and thinker</p><br>
 <h3 align="left">Welcome to my CHALLENGE</h3><br>
 <p>LATEST UPDATE<br>
     Friday, February 11th, 2022

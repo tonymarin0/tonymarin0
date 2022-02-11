@@ -8,7 +8,7 @@
 I will send a message from one computer to another using only light and color.
     
 No Internet<br>
-No network, WiFi or Bluetooth
+No network, WiFi or Bluetooth<br>
 No Radio signal<br>
 No Cables or wires<br>
 No Data/information infrastructure<br>

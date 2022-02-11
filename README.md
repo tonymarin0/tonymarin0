@@ -1,18 +1,3 @@
-<header>
-<style>
-    <style>
-        .aligned {
-            display: flex;
-            align-items: center;
-        }
-          
-        span {
-            padding: 10px;
-        }
-    </style>
-    
-    </style>
-    </header>
     
 <h1 align="center">Hi 👋, I'm Tony</h1>
 <p align="center">Independent learner and thinker</p>

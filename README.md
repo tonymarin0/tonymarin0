@@ -13,7 +13,7 @@ CHALLENGE: I will send a message from one computer to another using only light a
 
 <p align="left">Tony's tools</p>
 
-<img src="https://github.com/tonymarin0/tonymarin0/blob/master/topcard.png" alt="ok"> </a> </p>
+<img src="https://github.com/tonymarin0/tonymarin0/blob/master/new_logos28.png" alt="ok"> </a> </p>
 
 <p align="left">
 </p>

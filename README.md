@@ -1,10 +1,9 @@
-<!DOCTYPE html> <html> <head> <title>HTML Backgorund Color</title> </head> <body style="background-color:blue;"> <h1>Products</h1> <p>We have developed more than 10 products till now.</p> </body> 
 <h1 align="center">Hi 👋, I'm Tony</h1>
-<h3 align="center">Independent learning, research, thinking</h3>
+<h3 align="center">Independent learning, research and thinking</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonymarin0&label=Profile%20views&color=0e75b6&style=flat" alt="tonymarin0" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My tools</h3>
 <p align="left">
 </p>
 

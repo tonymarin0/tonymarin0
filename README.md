@@ -5,7 +5,7 @@
 
 <h3 align="left">Project</h3>
 <p>
-<img src="https://github.com/tonymarin0/tonymarin0/blob/master/calendar1.png" alt="ok"> </a> </p>
+<img src="https://github.com/tonymarin0/tonymarin0/blob/master/calendar_when.png" alt="ok"> </a> </p>
 CHALLENGE: I will send a message from one computer to another using only light and color.
 </p><br>
 

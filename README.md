@@ -5,7 +5,7 @@
 
 <h3 align="left">Project</h3>
 <p>
-CHALLENGE: To send a message from one computer to another using only light and colors.
+CHALLENGE: I will send a message from one computer to another using only light and color.
 </p><br>
 
 

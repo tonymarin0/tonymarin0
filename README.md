@@ -4,13 +4,13 @@
 <strong>START DATE:</strong> Not started<br>
 <strong>END DATE:</strong> March 15th, 2022<br><br>
 
-<p>Join me on this epic 30-DAY HACK-CHALLENGE as I attempt to send a message from one computer to another using only light and color.
+<p>Join me on this epic 30-DAY HACK-CHALLENGE as I send a message from one computer to another using only light and color.
 
 No Internet<br>
 No network, WiFi or Bluetooth<br>
-No Radio signal<br>
-No Cables or wires<br>
-No Data/information infrastructure<br>
+No radio signal<br>
+No cables or wires<br>
+No data/information infrastructure<br>
 </p>
 <h1 align="center"></h1>
     

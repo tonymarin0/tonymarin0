@@ -1,6 +1,6 @@
     
 <h1 align="center">Hi 👋, I'm Tony</h1>
-<h3 align="center">An engineer at heart</h3> 
+<p align="center">An engineer at heart</p> 
 
 <h3 align="center">Welcome to my technical challenge</h3><br>
 <img src="https://github.com/tonymarin0/tonymarin0/blob/master/challenge_img.png" alt="challenge_img">

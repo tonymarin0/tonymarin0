@@ -7,7 +7,7 @@
 <p>Join me on this 30-DAY HACK CHALLENGE where my goal is to send a message from one computer to another using only light and color.
 
 No Internet<br>
-No network, WiFi or Bluetooth<br>
+No WiFi or Bluetooth<br>
 No radio signal<br>
 No cables or wires<br>
 No data/information infrastructure<br>

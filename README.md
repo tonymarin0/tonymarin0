@@ -4,8 +4,8 @@
 <strong>START DATE:</strong> Not started<br>
 <strong>END DATE:</strong> March 15th, 2022<br><br>
 
-<p>Join me on a 30-DAY CODE HACK CHALLENGE where my goal is to send a message from one computer to another using only light and color. Come with me on this quest for live Coffee and Code sessions as we talk code, ideas and strategies to pull off this epic feat.
-
+<p>Join me on a 30-DAY CODE HACK CHALLENGE where my goal is to send a message from one computer to another using only light and color. This technical challenge will benefit young people in Austin, TX.
+    
 No Internet<br>
 No network, WiFi or Bluetooth<br>
 No radio signal<br>

@@ -1,5 +1,5 @@
 <h3 align="center">Welcome to my technical challenge</h3><br>
-<img src="https://github.com/tonymarin0/tonymarin0/blob/master/hack_challenge_img.png" alt="challenge_img">
+<img src="https://github.com/tonymarin0/tonymarin0/blob/master/HACK_CHALLENGE_img.png" alt="challenge_img">
 <p>
 <strong>START DATE:</strong> Not started<br>
 <strong>END DATE:</strong> March 15th, 2022<br><br>

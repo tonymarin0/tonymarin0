@@ -8,11 +8,10 @@
 <strong>START DATE:</strong> Not started<br>
 <strong>END DATE:</strong> March 15th, 2022<br><br>
 
-<p>Join me on this epic 30-DAY HACK-CHALLENGE as we discuss physics, ideas, code, and readily available household items to help us achieve our technical goal.
-Let's build solutions together.    
-
+<p>Join me on this epic 30-DAY HACK-CHALLENGE as we discuss physics, ideas, code, and readily available household items to help us defeat a disconnected world.
 </p>
 
+THE CHALLENGE
 I will send a message from one computer to another using only light and color.
 
 No Internet<br>

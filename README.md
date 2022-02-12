@@ -11,7 +11,7 @@
 <p>Join me on this epic 30-DAY HACK-CHALLENGE as we discuss physics, ideas, code, and readily available household items to help us defeat a disconnected world.
 </p>
 
-THE CHALLENGE
+THE CHALLENGE<BR>
 I will send a message from one computer to another using only light and color.
 
 No Internet<br>

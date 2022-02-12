@@ -5,12 +5,11 @@
 <h3 align="center">Welcome to my technical challenge</h3><br>
 <img src="https://github.com/tonymarin0/tonymarin0/blob/master/challenge_img.png" alt="challenge_img">
 <p>
-<strong>START DATE:</strong> Not yet<br>
+<strong>START DATE:</strong> Not started<br>
 <strong>END DATE:</strong> March 15th, 2022<br><br>
 
-<p>Join me on this epic hack challenge as we discuss physics, technology and the power of light to help us commuicate a message
-information transmission.
-diferereadily available household items to build and 
+<p>Join me on this epic 30-DAY HACK-CHALLENGE as we discuss physics, ideas, code, and readily available household items to help us achieve our technical goal.
+Let's build solutions together.    
 
 </p>
 

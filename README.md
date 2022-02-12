@@ -4,7 +4,7 @@
 <strong>START DATE:</strong> Not started<br>
 <strong>END DATE:</strong> March 15th, 2022<br><br>
 
-<p>Join me on an epic 30-DAY CODE HACK CHALLENGE where my goal is to send a message from one computer to another using only light and color. Follow my daily live code sessions and test my code on your computer.
+<p>Join me on a 30-DAY CODE HACK CHALLENGE where my goal is to send a message from one computer to another using only light and color. Follow my daily live Coffee and Code sessions, observe the entire software development process from scratch.
 
 No Internet<br>
 No network, WiFi or Bluetooth<br>
@@ -31,9 +31,9 @@ Friday, February 11th, 2022
 <h3 align="left">TO-DO</h3>
 <img src="https://github.com/tonymarin0/tonymarin0/blob/master/to-do.png" alt="stand-up">
     
-    ▄█ 9:00AM Update/day gameplan
+    ▄█ 9:00AM Coffee and Code Check-In
 
-    ▄█ Daily check-ins
+    ▄█ 
     
     ▄█ 
 <p>

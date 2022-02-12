@@ -4,12 +4,7 @@
 <strong>START DATE:</strong> Not started<br>
 <strong>END DATE:</strong> March 15th, 2022<br><br>
 
-<p>Join me on this epic 30-DAY HACK-CHALLENGE as I discuss ideas and all the core concepts and structures of programming.
-    and readily available household items to help us defeat a disconnected world.
-Using </p>
-
-THE CHALLENGE<BR>
-I will send a message from one computer to another using only light and color.
+<p>Join me on this epic 30-DAY HACK-CHALLENGE as I attempt to send a message from one computer to another using only light and color.
 
 No Internet<br>
 No network, WiFi or Bluetooth<br>

@@ -4,7 +4,7 @@
 <strong>START DATE:</strong> Not started<br>
 <strong>END DATE:</strong> March 15th, 2022<br><br>
 
-<p>Join me on an epic 30-DAY CODE HACK CHALLENGE where my goal is to send a message from one computer to another using only light and color.
+<p>Join me on an epic 30-DAY CODE HACK CHALLENGE where my goal is to send a message from one computer to another using only light and color. Follow my daily live code sessions and test my code on your computer.
 
 No Internet<br>
 No network, WiFi or Bluetooth<br>

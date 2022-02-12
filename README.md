@@ -4,8 +4,9 @@
 <strong>START DATE:</strong> Not started<br>
 <strong>END DATE:</strong> March 15th, 2022<br><br>
 
-<p>Join me on this epic 30-DAY HACK-CHALLENGE as I discuss physics, ideas, code, and readily available household items to help us defeat a disconnected world.
-</p>
+<p>Join me on this epic 30-DAY HACK-CHALLENGE as I discuss ideas and all the core concepts and structures of programming.
+    and readily available household items to help us defeat a disconnected world.
+Using </p>
 
 THE CHALLENGE<BR>
 I will send a message from one computer to another using only light and color.
@@ -31,7 +32,7 @@ Friday, February 11th, 2022
 </p>
     
 
-
+<h1 align="center"></h1>
 <h3 align="left">TO-DO</h3>
 <img src="https://github.com/tonymarin0/tonymarin0/blob/master/to-do.png" alt="stand-up">
     
@@ -42,8 +43,8 @@ Friday, February 11th, 2022
     ▄█ 
 <p>
 
-<p align="left">...
 </p>
+<h1 align="center"></h1>
 <h3 align="left">MY TOOLS</h3>
 <img src="https://github.com/tonymarin0/tonymarin0/blob/master/new_logos28.png" alt="ok">
 <p>

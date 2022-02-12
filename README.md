@@ -1,6 +1,6 @@
     
 <h1 align="center">Hi 👋, I'm Tony</h1>
-<h3 align="center">An independent learner</h3> 
+<h3 align="center">An engineer at heart</h3> 
 
 <h3 align="center">Welcome to my technical challenge</h3><br>
 <img src="https://github.com/tonymarin0/tonymarin0/blob/master/challenge_img.png" alt="challenge_img">
@@ -8,7 +8,7 @@
 <strong>START DATE:</strong> Not started<br>
 <strong>END DATE:</strong> March 15th, 2022<br><br>
 
-<p>Join me on this epic 30-DAY HACK-CHALLENGE as we discuss physics, ideas, code, and readily available household items to help us defeat a disconnected world.
+<p>Join me on this epic 30-DAY HACK-CHALLENGE as I discuss physics, ideas, code, and readily available household items to help us defeat a disconnected world.
 </p>
 
 THE CHALLENGE<BR>

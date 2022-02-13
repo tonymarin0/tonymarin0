@@ -3,7 +3,7 @@
 <strong>START DATE:</strong> Not started<br>
 <strong>END DATE:</strong> March 15th, 2022<br><br>
 
-<p>Join me on this 30-DAY HACK CHALLENGE where my goal is to send a message from one computer to another using only readily available household items, light and color. Any code will be transparent and Open Source license here on GitHub for anyone to submit code updates and improvements.
+<p>Join me on this 30-DAY HACK CHALLENGE
 
 No Internet<br>
 No WiFi or Bluetooth<br>

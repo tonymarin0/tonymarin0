@@ -1,4 +1,4 @@
-<img src="https://github.com/tonymarin0/tonymarin0/blob/master/challenge_atx.PNG" alt="challenge_img">
+<img src="https://github.com/tonymarin0/tonymarin0/blob/master/challenge_atx.jpg" alt="challenge_img">
 <p>
 <strong>START DATE:</strong> Not started<br>
 <strong>END DATE:</strong> March 15th, 2022<br><br>

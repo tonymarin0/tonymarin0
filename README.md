@@ -1,9 +1,9 @@
-<img src="https://github.com/tonymarin0/tonymarin0/blob/master/top_challenge_img.png" alt="challenge_img">
+<img src="https://github.com/tonymarin0/tonymarin0/blob/master/challenge_atx.PNG" alt="challenge_img">
 <p>
 <strong>START DATE:</strong> Not started<br>
 <strong>END DATE:</strong> March 15th, 2022<br><br>
 
-<p>Join me on this 30-DAY HACK CHALLENGE
+<p>Join me on this 5-DAY HACK CHALLENGE
 
 No Internet<br>
 No WiFi or Bluetooth<br>

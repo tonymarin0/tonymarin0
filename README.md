@@ -3,7 +3,7 @@
 <strong>START DATE:</strong> Not started<br>
 <strong>END DATE:</strong> March 15th, 2022<br><br>
 
-<p>Join me on this 30-DAY HACK CHALLENGE
+<p>Join me on this 5-DAY HACK CHALLENGE
 
 No Internet<br>
 No WiFi or Bluetooth<br>

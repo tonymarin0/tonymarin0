@@ -1,4 +1,3 @@
-<h3 align="center">Welcome to my technical challenge</h3><br>
 <img src="https://github.com/tonymarin0/tonymarin0/blob/master/top_challenge_img.png" alt="challenge_img">
 <p>
 <strong>START DATE:</strong> Not started<br>
